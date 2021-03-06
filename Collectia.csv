@@ -1,0 +1,2 @@
+City{id=0, name='Питер', coordinates=56.22;22421, creationDate=2021-03-06, area=1234, population=9876, metersAboveSeaLevel=null, establishmentDate=Wed May 05 00:00:00 MSK 2021, agglomeration=676767, standardOfLiving=VERY_LOW, governor=Human@3d71d552}
+City{id=1, name='Москва', coordinates=51.539;3321, creationDate=2021-03-06, area=1234, population=9876, metersAboveSeaLevel=876, establishmentDate=Sat Aug 04 00:00:00 MSK 1011, agglomeration=123432, standardOfLiving=ULTRA_LOW, governor=Human@1cf4f579}
